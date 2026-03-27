@@ -10,7 +10,7 @@
 ## 📌 Project Overview
 This project is an end-to-end data analytics pipeline designed to benchmark the I&IT (Information & Information Technology) job market across North America. By scraping, cleaning, and visualizing over 1,000 real-time job postings, this project provides actionable intelligence on compensation distributions, geographic talent clusters, and highly sought-after technical skills.
 
-![Dashboard Preview](images/dashboard_preview.png) *(Note: Please upload your Tableau screenshot to the images folder!)*
+![Dashboard Preview](images/Dashboard.png) 
 
 ## 🛠️ Tech Stack & Methodology
 1. **Data Extraction (Web Scraping):** Harvested job postings (titles, locations, salaries, descriptions) across US and Canadian tech hubs.
